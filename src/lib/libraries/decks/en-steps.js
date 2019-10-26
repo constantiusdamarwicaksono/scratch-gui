@@ -341,7 +341,9 @@ const enImages = {
 
     // Glide Around
     glideAroundBackAndForth: glideAroundBackAndForth,
+    // do something stupid
     glideAroundPoint: glideAroundPoint
+    // then break something
     
 };
 
